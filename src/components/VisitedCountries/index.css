@@ -1,0 +1,26 @@
+.visited-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+}
+.visited-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.visited-name {
+  color: #cbd5e1;
+}
+.remove-button {
+  border: 1px solid #f1f5f9;
+  background-color: transparent;
+  color: #f1f5f9;
+  width: 60px;
+  height: 35px;
+  border-radius: 5px;
+}
+.image{
+  width: 250px;
+  height: 200px;
+}
